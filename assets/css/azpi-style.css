@@ -1,0 +1,22 @@
+.az-page-index {
+    list-style: none;
+    padding: 0;
+    margin: 1em 0;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .az-page-index li {
+    width: 50%;
+    padding: 0.25em 0;
+  }
+  
+  .az-page-index li a {
+    text-decoration: none;
+    color: #0073aa;
+  }
+  
+  .az-page-index li a:hover {
+    text-decoration: underline;
+  }
+  
